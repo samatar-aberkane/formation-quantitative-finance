@@ -8,7 +8,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
 
 ### **Course Breakdown**
 
-#### **Week 1: Introduction to Quantitative Finance** (week1.pdf)
+#### **Week 1: Introduction to Quantitative Finance** [(week1.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/c3c50aec1c679cb4ce026b72f7d7a79fa89872d5/week1.pdf)
 
 * **Objective**: Get a foundational understanding of quantitative finance.
 * **Key Topics**:
