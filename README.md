@@ -8,7 +8,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
 
 ### **Course Breakdown**
 
-#### **Week 1: Introduction to Quantitative Finance**
+#### **Week 1: Introduction to Quantitative Finance** (week1.pdf)
 
 * **Objective**: Get a foundational understanding of quantitative finance.
 * **Key Topics**:
