@@ -8,7 +8,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
 
 ### **Course Breakdown**
 
-#### **Week 1: Introduction to Quantitative Finance** [(week1.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/c3c50aec1c679cb4ce026b72f7d7a79fa89872d5/week1.pdf)
+#### **Week 1: Introduction to Quantitative Finance** [(week1.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/334dd2dad3bfcb5cc75d1c53e73de94cebdd2237/Slides/week1.pdf)
 
 * **Objective**: Get a foundational understanding of quantitative finance.
 * **Key Topics**:
@@ -17,7 +17,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
     * Retrieving and analyzing financial data using Python.
     * Visualizing asset prices and creating simple charts.
 
-#### **Week 2: Time Series & Data Analysis** [(week2.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/1bdcddae619f1a627d124eb24d04550de73b42ef/week2.pdf)
+#### **Week 2: Time Series & Data Analysis** [(week2.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/334dd2dad3bfcb5cc75d1c53e73de94cebdd2237/Slides/week2.pdf)
 
 * **Objective**: Learn how to manipulate and analyze financial time series data.
 * **Key Topics**:
@@ -25,7 +25,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
     * Understanding key concepts like moving averages and historical volatility.
     * Visualizing data to draw simple, meaningful conclusions.
 
-#### **Week 3: Investment Portfolio Theory** [(week3.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/1bdcddae619f1a627d124eb24d04550de73b42ef/week3.pdf)
+#### **Week 3: Investment Portfolio Theory** [(week3.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/334dd2dad3bfcb5cc75d1c53e73de94cebdd2237/Slides/week3.pdf)
 
 * **Objective**: Explore the principles of modern portfolio theory.
 * **Key Topics**:
@@ -33,7 +33,7 @@ The goal of this course was to introduce fundamental concepts in quantitative fi
     * Evaluating portfolio return and risk (variance).
     * Constructing and understanding the efficient frontier.
 
-#### **Week 4: Algorithmic Trading & Backtesting** [(week4.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/1bdcddae619f1a627d124eb24d04550de73b42ef/week4.pdf)
+#### **Week 4: Algorithmic Trading & Backtesting** [(week4.pdf)](https://github.com/samatar-aberkane/formation-quantitative-finance/blob/334dd2dad3bfcb5cc75d1c53e73de94cebdd2237/Slides/week4.pdf)
 
 * **Objective**: Discover the basics of algorithmic trading and strategy backtesting.
 * **Key Topics**:
